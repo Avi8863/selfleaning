@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SelfLearning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password\n</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signed">Sign in</string>
+    <string name="already_have_an_account_login">Already Have an account?</string>
+    <string name="login">Sign In\n</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account sign In?\n</string>
+</resources>
